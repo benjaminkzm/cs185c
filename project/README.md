@@ -70,7 +70,7 @@ make
 After the compilation is complete, move to the run directory, link everything from input and code, and the submit the job script:
 
 ```bash
-sbatch cs185c.slm
+sbatch cs185c08.slm
 ```
 
 ### Step 5: Analyze the Results
