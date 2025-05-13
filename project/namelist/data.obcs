@@ -3,10 +3,10 @@
 #
  OBCSfixTopo=.FALSE.,
 #
- OB_Jsouth= n_cols*1,
- OB_Iwest = n_rows*1,
- OB_Jnorth= n_cols*max_row,
- OB_Ieast = n_rows*max_col,
+ OB_Jsouth= 381*1,
+# OB_Iwest = 231*1,
+ OB_Jnorth= 381*231,
+ OB_Ieast = 231*381,
 #
  useOBCSsponge = .TRUE.,
 #

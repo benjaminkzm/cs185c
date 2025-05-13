@@ -2,13 +2,9 @@
 
 This project explores how **surface ocean conditions affect deep water formation** in the **Labrador Sea**, an important area for the Earth's climate system. Water sinking in this region helps power the **Atlantic Ocean’s circulation**, which moves heat and salt around the globe. The model runs for one full year using **MITgcm**, a realistic ocean simulation that includes ocean depth, weather patterns, and average boundary conditions.
 
----
-
 ## Science Question
 
 **What does surface temperature variability tell us about the potential for deep water formation in the Labrador Sea?**
-
----
 
 ## Key Analyses
 
@@ -25,8 +21,6 @@ Vertical sections of temperature show **how stratification develops with depth a
 
 ### Vertical Velocity
 2D maps and time–depth plots of vertical velocity confirm the **timing and depth of sinking motion**, providing direct evidence of **deep convection events** in late winter and early spring.
-
----
 
 ## Reproducing Model Results
 
@@ -48,8 +42,6 @@ Generate the following input files using the provided notebooks:
   `notebooks/Creating the Boundary Conditions.ipynb`
 
 Place all generated files in the `input/` directory.
-
----
 
 ### Step 2: Transfer Files to the Computing Cluster
 

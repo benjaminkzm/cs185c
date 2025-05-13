@@ -36,7 +36,7 @@
 #--
   fields(1:2,5) = 'THETA   ','SALT    ',
   fileName(5) = 'diags/TS_surf_daily_mean/TS_surf_daily_mean',
-  frequency(5) = 86400.,
+  frequency(5) = -3600.,
   levels(:,5) = 1,
 #
  &
